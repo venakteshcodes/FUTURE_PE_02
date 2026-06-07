@@ -4,7 +4,7 @@
 Future Interns – Prompt Engineering Task 2
 
 ## Product
-Sri Lakshmi Tailors – Custom Stitching Boutique
+Sri Gayathri Tailors – Custom Stitching Boutique
 
 ## Objective
 Create AI-generated UGC ad scripts for Instagram Reels and Shorts using Prompt Engineering.
